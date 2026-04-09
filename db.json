@@ -17,7 +17,7 @@
     {
       "id": "1",
       "title": "Chat",
-      "content": "Общий чат форума. Общайтесь здесь!",
+      "content": "ÐÐ±ÑÐ¸Ð¹ ÑÐ°Ñ ÑÐ¾ÑÑÐ¼Ð°. ÐÐ±ÑÐ°Ð¹ÑÐµÑÑ Ð·Ð´ÐµÑÑ!",
       "category": "Chat",
       "authorId": "1",
       "authorUsername": "d1pyy",
@@ -27,7 +27,7 @@
     {
       "id": "2",
       "title": "News",
-      "content": "Последние новости и обновления.",
+      "content": "ÐÐ¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ Ð½Ð¾Ð²Ð¾ÑÑÐ¸ Ð¸ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ.",
       "category": "News",
       "authorId": "1",
       "authorUsername": "d1pyy",
@@ -37,7 +37,7 @@
     {
       "id": "3",
       "title": "Files",
-      "content": "Раздел для обмена файлами.",
+      "content": "Ð Ð°Ð·Ð´ÐµÐ» Ð´Ð»Ñ Ð¾Ð±Ð¼ÐµÐ½Ð° ÑÐ°Ð¹Ð»Ð°Ð¼Ð¸.",
       "category": "Files",
       "authorId": "1",
       "authorUsername": "d1pyy",
@@ -45,6 +45,15 @@
       "createdAt": "2026-04-08T00:00:00.000Z"
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "id": "1775726781490",
+      "postId": "3",
+      "authorId": "1",
+      "authorUsername": "d1pyy",
+      "content": "r",
+      "createdAt": "2026-04-09T09:26:21.490Z"
+    }
+  ],
   "sessions": []
 }
